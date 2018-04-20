@@ -3,7 +3,7 @@ global with sharing class FundController {
     public class PagedResult {
         
         @AuraEnabled
-        public Integer pageSize { get;set; }
+        public Integer pageSize { get;set; } //jjjjjjjjj
         
         @AuraEnabled
         public Integer page { get;set; }
